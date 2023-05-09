@@ -53,7 +53,7 @@ export default function Navbar() {
           <li className="cursor-pointer text-2xl font-bold mt-10">Destinations</li>
           <li className="cursor-pointer text-2xl font-bold mt-10">Reservations</li>
           <li className="cursor-pointer text-2xl font-bold mt-10">Amenities</li>
-          <li className="cursor-pointer text-2xl font-bold mt-10">Rooms</li>
+          <li className="cursor-pointer text-2xl font-bold mt-10">Room</li>
         </ul>
       </div>
 
